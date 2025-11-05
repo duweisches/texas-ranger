@@ -1,0 +1,191 @@
+{
+  "index": 1,
+  "width": 2000,
+  "height": 1000,
+  "player": {
+    "type": "ranger",
+    "textureType": "idle",
+    "x": 200,
+    "y": 200,
+    "w": 16,
+    "h": 32
+  },
+  "blocks": [
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 100,
+      "y": 400,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 140,
+      "y": 400,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 180,
+      "y": 400,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 220,
+      "y": 400,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 260,
+      "y": 400,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 300,
+      "y": 400,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 340,
+      "y": 400,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 380,
+      "y": 400,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 100,
+      "y": 350,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 140,
+      "y": 350,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 400,
+      "y": 350,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 440,
+      "y": 350,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 480,
+      "y": 350,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 518.8604162493323,
+      "y": 296.4387812166133,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 560,
+      "y": 250,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 600,
+      "y": 250,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "movable",
+      "textureType": "stoneStd",
+      "x": 120,
+      "y": 300,
+      "w": 32,
+      "h": 32
+    },
+    {
+      "type": "climbable",
+      "textureType": "ladderStd",
+      "x": 360.54134531917737,
+      "y": 382.27921966813574,
+      "w": 32,
+      "h": 32
+    },
+    {
+      "type": "climbable",
+      "textureType": "ladderStd",
+      "x": 360.5413192357773,
+      "y": 351.41880341880346,
+      "w": 32,
+      "h": 32
+    },
+    {
+      "type": "movable",
+      "textureType": "stoneStd",
+      "x": 256.2677888788729,
+      "y": 365.2422261034322,
+      "w": 32,
+      "h": 32
+    },
+    {
+      "type": "movable",
+      "textureType": "stoneStd",
+      "x": 450,
+      "y": 300,
+      "w": 32,
+      "h": 32
+    },
+    {
+      "type": "goal",
+      "textureType": "goalArrow",
+      "x": 580,
+      "y": 222,
+      "w": 48,
+      "h": 48
+    }
+  ]
+}
