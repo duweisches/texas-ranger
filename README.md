@@ -1,2 +1,0 @@
-# texas-ranger
-Texas Ranger
