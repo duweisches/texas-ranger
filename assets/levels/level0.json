@@ -1,0 +1,47 @@
+{
+  "index": 0,
+  "width": 2000,
+  "height": 1000,
+  "player": {
+    "type": "ranger",
+    "textureType": "idle",
+    "x": 100,
+    "y": 100,
+    "w": 16,
+    "h": 32
+  },
+  "blocks": [
+    {
+      "type": "static",
+      "textureType": "bridgeWood",
+      "x": 200,
+      "y": 100,
+      "w": 40,
+      "h": 8
+    },
+    {
+      "type": "climbable",
+      "textureType": "ladderStd",
+      "x": 300,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    {
+      "type": "movable",
+      "textureType": "stoneStd",
+      "x": 400,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    {
+      "type": "goal",
+      "textureType": "goalArrow", 
+      "x": 500, 
+      "y": 100, 
+      "w": 48, 
+      "h": 48 
+    }
+  ]
+}
